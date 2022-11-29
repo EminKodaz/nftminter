@@ -36,7 +36,6 @@ const Home: NextPage = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                built with @_buildspace
               </a>
             </Box>
           </Center>
